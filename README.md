@@ -1,4 +1,18 @@
 # ProjectProposalSE305
+
+Submitted TO
+Name    : Pankaj Bhowmik(sir)
+Lecturer: Department of CSE, HSTU
+
+
+Submitted By
+Name      : Aminul Islam Nayeem 
+ID        : 2002062
+Level     : 3
+Semester  : I
+Department: CSE
+
+
 Unique project proposal for Software_Engineering (CSE305) 
 
 Project Proposal : Atheism Detecting Application 
